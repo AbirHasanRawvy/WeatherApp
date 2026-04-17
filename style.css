@@ -41,13 +41,22 @@ input{
     border-radius: 5px;
     cursor: pointer;
     margin-top: 10px;
-    transition: all .2s;
+    transition: all .3s;
     
 }
 
 .btn:hover{
-    background-color: rgb(234, 234, 241);
-    color: rgb(24, 24, 241);
-    border-width: 10px;
+    background-color: rgb(210, 210, 234);
+    color: rgb(241, 24, 64);
+    /* border-width: 10px; */
     
+}
+
+weather-info{
+
+    margin-top: 20px;
+}
+
+.danger{
+    color: red;
 }
