@@ -60,3 +60,8 @@ weather-info{
 .danger{
     color: red;
 }
+
+.last{
+    color: aqua;
+    background-color: black;
+}
